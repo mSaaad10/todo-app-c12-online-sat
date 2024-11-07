@@ -1,5 +1,6 @@
-import 'package:flutter/material.dart';
 
-extension Assets on Image {
-  String get splash => 'ds,vldscvdsl';
+
+class AssetsManager {
+  static const String base = 'assets/images';
+  static const String route = '$base/route_image.svg';
 }
