@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916402269633",
+    "project_id": "todo-c12-online-sat",
+    "storage_bucket": "todo-c12-online-sat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916402269633:android:2b15c8f80613a5770d5340",
+        "android_client_info": {
+          "package_name": "com.example.t"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxeYM1LIHl7SdddiI8FSiglcvLlqabzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916402269633:android:c35ace9435086dad0d5340",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_c12_online_sat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxeYM1LIHl7SdddiI8FSiglcvLlqabzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
